@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Handicap",
+			"dave",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Husk",
+			"bambi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Descrimination",
+			"bambi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Dave and Bambi",
+	"weekName": "WeekD&B",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

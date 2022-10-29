@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Haphazard",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Premiere",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Exhilarated",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"landu",
+		"bf",
+		"gf"
+	],
+	"storyName": "Landu the funny game show",
+	"weekName": "Landu week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

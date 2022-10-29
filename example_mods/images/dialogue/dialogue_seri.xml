@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogue_seri.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="seri0000" x="0" y="0" width="1664" height="880"/>
+	<SubTexture name="seri0001" x="0" y="0" width="1664" height="880"/>
+	<SubTexture name="seri0002" x="0" y="0" width="1664" height="880"/>
+	<SubTexture name="seri0003" x="0" y="0" width="1664" height="880"/>
+	<SubTexture name="seri0004" x="0" y="0" width="1664" height="880"/>
+	<SubTexture name="seri0005" x="0" y="0" width="1664" height="880"/>
+	<SubTexture name="seri0006" x="0" y="0" width="1664" height="880"/>
+	<SubTexture name="seri0007" x="0" y="0" width="1664" height="880"/>
+	<SubTexture name="seri hap0000" x="0" y="880" width="1616" height="840"/>
+	<SubTexture name="seri hap0001" x="0" y="880" width="1616" height="840"/>
+	<SubTexture name="seri hap0002" x="0" y="880" width="1616" height="840"/>
+	<SubTexture name="seri hap0003" x="0" y="880" width="1616" height="840"/>
+	<SubTexture name="seri hap0004" x="0" y="880" width="1616" height="840"/>
+	<SubTexture name="seri hap0005" x="0" y="880" width="1616" height="840"/>
+	<SubTexture name="seri hap0006" x="0" y="880" width="1616" height="840"/>
+	<SubTexture name="seri hap0007" x="0" y="880" width="1616" height="840"/>
+</TextureAtlas>

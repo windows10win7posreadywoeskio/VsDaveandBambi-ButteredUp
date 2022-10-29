@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Decagon",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Placate",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Valediction",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stageseri",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "3d siblings lol",
+	"weekName": "week seri",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

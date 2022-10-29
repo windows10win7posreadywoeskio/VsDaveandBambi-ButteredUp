@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "seri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep beep brap boo (sing with me you stupid idiot)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "seri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats mean :(, ok i will sing with you"
+		}
+	]
+}

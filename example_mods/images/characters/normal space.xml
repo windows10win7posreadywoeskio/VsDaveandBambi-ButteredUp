@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="normal space.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fade in0000" x="1928" y="0" width="1928" height="1088"/>
+	<SubTexture name="fade in0001" x="3856" y="0" width="1928" height="1088"/>
+	<SubTexture name="fade in0002" x="5784" y="0" width="1928" height="1088"/>
+	<SubTexture name="fade in0003" x="0" y="1088" width="1928" height="1088"/>
+	<SubTexture name="fade in0004" x="1928" y="1088" width="1928" height="1088"/>
+	<SubTexture name="fade in0005" x="3856" y="1088" width="1928" height="1088"/>
+	<SubTexture name="fade in0006" x="5784" y="1088" width="1928" height="1088"/>
+	<SubTexture name="fade in0007" x="0" y="2176" width="1928" height="1088"/>
+	<SubTexture name="fade in0008" x="1928" y="2176" width="1928" height="1088"/>
+	<SubTexture name="fade in0009" x="0" y="0" width="1928" height="1088"/>
+	<SubTexture name="fade out0000" x="0" y="0" width="1928" height="1088"/>
+	<SubTexture name="fade out0001" x="1928" y="2176" width="1928" height="1088"/>
+	<SubTexture name="fade out0002" x="0" y="2176" width="1928" height="1088"/>
+	<SubTexture name="fade out0003" x="5784" y="1088" width="1928" height="1088"/>
+	<SubTexture name="fade out0004" x="3856" y="1088" width="1928" height="1088"/>
+	<SubTexture name="fade out0005" x="1928" y="1088" width="1928" height="1088"/>
+	<SubTexture name="fade out0006" x="0" y="1088" width="1928" height="1088"/>
+	<SubTexture name="fade out0007" x="5784" y="0" width="1928" height="1088"/>
+	<SubTexture name="fade out0008" x="3856" y="0" width="1928" height="1088"/>
+	<SubTexture name="fade out0009" x="3856" y="2176" width="1928" height="1088"/>
+	<SubTexture name="space0000" x="0" y="0" width="1928" height="1088"/>
+</TextureAtlas>

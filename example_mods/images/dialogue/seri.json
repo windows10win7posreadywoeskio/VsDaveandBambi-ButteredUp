@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				440,
+				178
+			],
+			"idle_offsets": [
+				439,
+				168
+			],
+			"loop_name": "seri0000",
+			"idle_name": "seri0000"
+		},
+		{
+			"loop_offsets": [
+				375,
+				189
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				371,
+				191
+			],
+			"loop_name": "seri hap",
+			"idle_name": "seri hap0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF SHOCK LOOP",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "BF CONFUSED0",
+			"loop_name": "BF CONFUSED LOOP"
+		},
+		{
+			"loop_name": "seri",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "seri",
+			"anim": "seri",
+			"loop_offsets": [
+				0,
+				1
+			]
+		},
+		{
+			"loop_name": "seri hap",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "seri hap 0007",
+			"anim": "seri hap",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "dialogue_seri"
+}

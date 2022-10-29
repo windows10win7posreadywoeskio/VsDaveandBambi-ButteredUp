@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Reflections",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Inciter",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Genial",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Bambi you've had your spotlight, now it's my turn",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,8 @@
+All Golden Apple notes movement
+types in ONE event!
+(ONLY VALUE 1)
+
+0 - OFF. 1 - disruption. 2 - expunged
+-Vanya B
+
+To do: Fix Expunged
