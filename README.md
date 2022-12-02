@@ -7,8 +7,9 @@ this is dave
 say hi to dave
 please say hi to him
 
-## The mod.
-Powered by a modified version of Psych Engine:
+## The mod..
+is using the upcoming [DATA_EXPUNGED] Engine.
+It is powered by a modified version of Psych Engine:
 - Low-effort port of Vs Dave and Bambi 3.0 because i'm lazy.
 - Probably a ton of memory leaks as we go
 - Nothing 2
